@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-22T21:40:37.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="_PTD8N1jGb7LVrHUMiAy" version="13.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-22T22:03:35.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="jj-O4Nr2MnYfYLPyJXin" version="13.0.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
     <mxGraphModel dx="2831" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -566,19 +566,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="177" value="Build tools for operation to assign NRT calls" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="177" value="" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1549.9999999999998" y="379.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="178" value="NRT Web API and Alchemist deployed to production" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999998" y="379.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="179" value="Assigning a writer to a NRT call" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="179" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1549.9999999999998" y="479.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="180" value="Removing a writer to a NRT call" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="180" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1550" y="559.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="181" value="Add logic for multiple writers on a call" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="181" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1549.9999999999998" y="639.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="182" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
