@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-21T22:14:40.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="wPjWelsdaN_WoAyD5Ggw" version="12.9.14" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-22T18:37:48.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36" etag="Bk6bDhhruoP1v7o2s3z0" version="13.0.1" type="github">
   <diagram name="Page-1" id="64c3da0e-402f-94eb-ee01-a36477274f13">
-    <mxGraphModel dx="934" dy="407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,10 +88,10 @@
         <mxCell id="51" value="Individual writer stats  and metadata saved" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="639.9999999999995" y="560.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="52" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="52" value="Writer authentication" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="639.9999999999995" y="640.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="53" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="53" value="CMIS integration?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="639.9999999999997" y="720.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="54" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -319,22 +319,22 @@
         <mxCell id="134" value="Provide early access to the API to consumer groups" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999998" y="380.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="135" value="API for NRT text is completed" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="135" value="API for NRT text is completed - Datahub?&#xa;Plan out API" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="809.9999999999998" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="136" value="Documentation of accessing API " style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="809.9999999999999" y="560.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="137" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="137" value="API for full completed transcripts needed?&#xa;Post MVP?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="809.9999999999998" y="640.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="138" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="138" value="Interview the client facing groups to build understanding" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="810" y="720.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="139" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="810.0000000000001" y="800.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="140" value="Provide access to client facing groups (event calendar, News, CTS)" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="140" value="Provide access to client facing groups (event calendar, News, CTS, ML)" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1009.9999999999993" y="480.0000000000001" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="141" value="Support and assist groups accessing the API" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -442,16 +442,16 @@
         <mxCell id="155" value="Scale the NRT Web API and the Alchemist for production volume" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1179.9999999999998" y="380.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="156" value="Ensure stability of scaling the NRT workflow" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="156" value="Ensure stability of scaling the NRT pipeline" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999998" y="380.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="157" value="Scale the NRT Web API" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1179.9999999999998" y="480.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="158" value="Scale the Alchemist" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="158" value="Scale the Alchemist&#xa;Lambda function?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1180" y="560.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="159" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="159" value="Scaling the Speechmatics appliance?&#xa;Container option?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1179.9999999999998" y="640.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="160" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -460,7 +460,7 @@
         <mxCell id="161" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1180" y="800.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="162" value="Test the increased scaling of the NRT workflow" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="162" value="Test the increased scaling of the NRT pipeline" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999993" y="480.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="163" value="Build in fail-safes to ensure business continuity" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -469,7 +469,7 @@
         <mxCell id="164" value="Apply good error handling for troubleshooting" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999995" y="640.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="165" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="165" value="CI/CDD" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1379.9999999999995" y="720.0000000000002" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="166" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -595,7 +595,7 @@
         <mxCell id="186" value="Track stability and address any issues" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999995" y="639.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="187" value="Feed stats to CMIS?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="187" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1749.9999999999995" y="719.9999999999999" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="188" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -697,10 +697,10 @@
         <mxCell id="200" value="" style="whiteSpace=wrap;rounded=1;fillColor=#12AAB5;strokeColor=none;shadow=1;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="2120" y="379.9999999999997" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="201" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="201" value="Custom dictionary?&#xa;Improved accuracy through DS?" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1919.9999999999998" y="479.9999999999997" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="202" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="202" value="Feedback loop for confidence level?&#xa;92% for ML as of now." style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="1920" y="559.9999999999998" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="203" value="" style="whiteSpace=wrap;rounded=1;fillColor=#999999;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=0" parent="1" vertex="1">
@@ -926,20 +926,26 @@
             <mxPoint x="690" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-236" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-236" value="Writer is able to complete a full call in the Alchemist" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="160" y="259.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-237" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-237" value="Writer stats and NRT required metadata saved" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="530" y="259.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-238" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-238" value="API of NRT database available for early access" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="900" y="259.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-239" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-239" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1270" y="259.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-240" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFCC99;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+        <mxCell id="8VLJKZ8pod3k8oLh0Ijx-240" value="NRT and Alchemist released to production" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1640" y="259.9999999999998" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAN9cpMJe89dW_sUxJJ--234" value="Scaling the NRT pipeline and testing stability" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1270" y="259.9999999999998" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAN9cpMJe89dW_sUxJJ--235" value="" style="whiteSpace=wrap;rounded=1;fillColor=#FFB570;strokeColor=none;shadow=1;fontColor=#FFFFFF;fontStyle=1;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="2010" y="259.9999999999998" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
